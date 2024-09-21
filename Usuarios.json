@@ -1,0 +1,14 @@
+{
+    "Usuarios": [
+        {
+            "nombre": "Juan Perez",
+            "telefono": "123456789",
+            "direccion": "Calle Falsa 123"
+        },
+        {
+            "nombre": "Maria Lopez",
+            "telefono": "987654321",
+            "direccion": "Avenida Siempre Viva 456"
+        }
+    ]
+}
